@@ -1,4 +1,4 @@
-# Curso de GIT febrero
+# Curso de GIT
 
 Este proyecto contiene el curso de introducción a GIT
 
